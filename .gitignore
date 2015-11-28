@@ -1,0 +1,31 @@
+
+# CakePHP temp files
+
+/tmp/cache/persistent/*
+!/tmp/cache/persistent/empty
+
+/tmp/cache/models/*
+!/tmp/cache/models/empty
+
+/tmp/cache/views/*
+!/tmp/cache/views/empty
+
+
+/tmp/sessions/*
+!/tmp/sessions/empty
+
+/tmp/tests/*
+!/tmp/tests/empty
+
+/tmp/*
+
+# Project IDE files
+
+/nbproject/private/
+/nbproject/*
+
+/tests/Fixture/*
+!/tests/Fixture/empty
+
+/logs/*
+!/logs/empty
